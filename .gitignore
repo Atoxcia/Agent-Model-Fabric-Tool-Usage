@@ -3,7 +3,7 @@
 
 # 但保留 project_test 目录
 !/project_test/
-
+!README.md
 # 忽略 project_test 下的所有内容
 /project_test/*
 
