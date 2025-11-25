@@ -11,6 +11,8 @@
 !/project_test/main.py
 !/project_test/src/
 !/project_test/src/**
+# *只匹配src目录下的直接子项，**递归匹配所有子项
+!/project_test/info.json
 
 # 忽略 Python 缓存文件
 __pycache__/
