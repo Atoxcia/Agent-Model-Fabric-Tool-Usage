@@ -1,0 +1,25 @@
+# 忽略所有文件
+/*
+
+# 但保留 project_test 目录
+!/project_test/
+
+# 忽略 project_test 下的所有内容
+/project_test/*
+
+# 但保留特定文件
+!/project_test/main.py
+!/project_test/src/
+!/project_test/src/**
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 保留 .gitignore 本身
+!.gitignore
+
+# 保留 .config 目录及其内容
+!/.config/
