@@ -23,6 +23,7 @@
 https://arxiv.org/abs/2303.11366
 https://github.com/noahshinn/reflexion
 代理在执行失败后对轨迹进行语言化“反思（Reflection）”，并将总结作为知识加入长期记忆
+
 **2.ART**
 https://arxiv.org/abs/2303.09014
 
