@@ -223,4 +223,9 @@ AdaInertia/
 
 AdaInertia is built on top of [AutoTool](https://github.com/jiajingyyyyyy/AutoTool) and evaluated using the [AgentBoard](https://github.com/hkust-nlp/agentboard) benchmark suite. We thank the respective authors for their open-source contributions.
 
+## Authors
+
+- [Yanxi Hu](https://github.com/hu1363374262-afk)
+- Yanjie Zhao
+- Jingyi Jia
 ---
