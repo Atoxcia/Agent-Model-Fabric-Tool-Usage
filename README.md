@@ -227,5 +227,5 @@ AdaInertia is built on top of [AutoTool](https://github.com/jiajingyyyyyy/AutoTo
 
 - [Yanxi Hu](https://github.com/hu1363374262-afk)
 - Yanjie Zhao
-- Jingyi Jia
+- Yiwen Huang
 ---
